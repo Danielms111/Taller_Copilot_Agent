@@ -52,7 +52,8 @@ El objetivo fue aprender a crear **agentes inteligentes** que no solo respondan 
    - Se diseñó un flujo para **enviar un correo** por el agente.
      <img width="1199" height="427" alt="image" src="https://github.com/user-attachments/assets/ccdea180-62ed-41f4-8b39-b51fc82a8c81" />
 
-5. **Temas**  
+5. **Temas**
+   - 
      <img width="1210" height="811" alt="image" src="https://github.com/user-attachments/assets/70d222cc-8919-4837-9163-94255f5f0d9e" />
 
 
