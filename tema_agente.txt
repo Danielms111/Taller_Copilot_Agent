@@ -1,0 +1,5 @@
+Necesito un agente que recomiende películas y series según los gustos del usuario. El agente debe hacer preguntas para conocer preferencias (géneros, actores, duración, año de estreno) y luego sugerir opciones con una breve sinopsis y dónde verlas. También debe poder guardar las recomendaciones favoritas del usuario en una lista
+
+El nombre de tu agente ahora es "Recomendador de Cine y Series"
+
+Quiero que el agente pueda filtrar por géneros que el usuario quiera evitar (por ejemplo, terror o violencia explícita) y que las recomendaciones incluyan tanto estrenos recientes como clásicos. Además, que permita guardar las recomendaciones favoritas en una lista

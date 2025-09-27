@@ -1,0 +1,38 @@
+CATÁLOGO DE PELÍCULAS Y SERIES PARA RECOMENDACIONES
+
+--- ACCIÓN ---
+• Mad Max: Fury Road (2015) – Aventura postapocalíptica con persecuciones intensas y un estilo visual impresionante.
+• John Wick (2014) – Un exasesino busca venganza, acción coreografiada y adrenalina constante.
+• Top Gun: Maverick (2022) – Pilotos de élite, entrenamiento extremo y emociones fuertes.
+
+--- COMEDIA ---
+• The Office (2005-2013) – Serie de comedia sobre la vida en una oficina, humor incómodo y personajes entrañables.
+• Superbad (2007) – Dos amigos en una noche llena de situaciones absurdas antes de graduarse.
+• Ted Lasso (2020-) – Un entrenador de fútbol americano dirige un equipo de soccer en Inglaterra con optimismo contagioso.
+
+--- DRAMA ---
+• The Shawshank Redemption (1994) – Historia de amistad y esperanza en una prisión.
+• Breaking Bad (2008-2013) – Un profesor de química se convierte en fabricante de metanfetamina.
+• The Crown (2016-) – Drama histórico sobre el reinado de la Reina Isabel II.
+
+--- CIENCIA FICCIÓN ---
+• Interstellar (2014) – Viajes espaciales, agujeros de gusano y la fuerza del amor.
+• Black Mirror (2011-) – Serie antológica que explora las consecuencias inquietantes de la tecnología.
+• Stranger Things (2016-) – Aventuras sobrenaturales y nostalgia ochentera.
+
+--- TERROR ---
+• The Conjuring (2013) – Basada en casos reales de investigadores paranormales.
+• Get Out (2017) – Suspenso psicológico con crítica social.
+• The Haunting of Hill House (2018) – Terror gótico y drama familiar.
+
+--- CLÁSICOS DESTACADOS ---
+• Casablanca (1942) – Romance inolvidable en tiempos de guerra.
+• El Padrino (1972) – Historia de la familia Corleone, poder y traición.
+• Forrest Gump (1994) – Un hombre común que presencia grandes momentos de la historia.
+
+--- ESTRENOS RECIENTES ---
+• Dune: Parte Dos (2024) – Adaptación épica de ciencia ficción.
+• Oppenheimer (2023) – Biografía del creador de la bomba atómica.
+• Barbie (2023) – Comedia satírica sobre identidad y estereotipos.
+
+NOTA: Este catálogo sirve como base para que el agente sugiera películas o series según los géneros, actores o años que prefiera el usuario. Se pueden combinar varios criterios para personalizar las recomendaciones.
